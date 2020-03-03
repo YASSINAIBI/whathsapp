@@ -1,0 +1,25 @@
+body{
+    box-sizing: border-box;
+}
+
+body{
+    box-sizing: border-box;
+}
+
+.floatL{
+ position: relative;
+ left: 30%;
+ border: 2px solid black;
+ line-height: 40px;
+ overflow: scroll;
+}
+.floatR{
+    position: relative;
+    left: 70%;
+    border: 2px solid rgb(10, 230, 58);
+    line-height: 40px;
+    overflow: scroll;
+}
+.textA{
+    overflow: scroll;
+}
